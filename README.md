@@ -1,23 +1,10 @@
-
+<div>
+<div style="float: left">
 표지를 클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동:
 <br /> [![책 표지](http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg)](https://github.com/kyagrd/haskell/wiki)
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
 <br /> ISBN-13: 9788972808183, ISBN-10 8972808180
-
-<div>
-<div style="float: left">
-  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
-    <li>
-      <strong><a href="/kyagrd/haskell/wiki" class="wiki-page-link">Home</a></strong>
-    </li>
-    <li>
-      <strong><a href="/kyagrd/haskell/wiki/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%95%98%EC%8A%A4%EC%BC%88-%EC%BD%94%EB%93%9C" class="wiki-page-link">강의자료 및 하스켈 코드</a></strong>
-    </li>
-    <li>
-      <strong><a href="/kyagrd/haskell/wiki/%EB%A7%8E%EC%A7%88%EA%B2%83" class="wiki-page-link">많질것</a></strong>
-    </li>
-</ul>
-</div> 
+</div>
 <div style="float: right">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
