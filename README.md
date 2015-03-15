@@ -3,7 +3,7 @@
 </a>은 
 <a title="Click to move to the orignal English version page" herf="http://cs.nott.ac.uk/~gmh/book.html">
 <img alt="원서 표지" src="http://images.amazon.com/images/P/0521692695.01.MZZZZZZZ.gif" />
-</a>를 우리말 옮김입니다.
+</a>의 우리말 옮김입니다.
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
 <br /> ISBN-13: 9788972808183, ISBN-10: 8972808180
 
