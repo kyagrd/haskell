@@ -2,4 +2,11 @@
 아래 표지를 클릭하시면 책에 더 자세한 정보가 담긴 위키 페이지로 이동합니다.
 [![책 표지](http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg)](https://github.com/kyagrd/haskell/wiki)
 
-This is a homepage for Korean translation of "Programming in Haskell".
+#### 출판사를 구합니다
+초판이 절판되었으나 대림출판사에서는 재판 계획이 없어
+현재 경성대학교 등의 수업 교재 이용에 불편을 겪고 있으니
+이 번역서를 출판할 출판사를 구하고 있습니다.
+
+#### 홈페이지 이사중
+이전 홈페이지인 http://pl.pusan.ac.kr/~haskell/ 로부터 이사 중입니다.
+오탈자 페이지를 제외한 내용은 모두 이사가 끝났으며 윈도우즈와 GHC를 이용한 수정된 예제가 이전 홈페이지에 있던 내용보다 더 간결해졌습니다.
