@@ -1,7 +1,7 @@
 <a title="클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동하기" href="https://github.com/kyagrd/haskell/wiki">
 <img alt="한글판 표지" src="http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg" />
 </a>은 
-<a title="Click to move to the orignal English version page" herf="http://cs.nott.ac.uk/~gmh/book.html">
+<a title="Click to move to the orignal English version homepage" herf="http://cs.nott.ac.uk/~gmh/book.html">
 <img alt="원서 표지" src="http://images.amazon.com/images/P/0521692695.01.MZZZZZZZ.gif" />
 </a>의 우리말 옮김입니다.
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
