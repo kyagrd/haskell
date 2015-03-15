@@ -1,11 +1,9 @@
 <div>
 <div style="float: left">
-
 표지를 클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동:
-<br /> [![책 표지](http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg)](https://github.com/kyagrd/haskell/wiki)
+<br /> <a href="(https://github.com/kyagrd/haskell/wiki"><img alt="표지" src="http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg" /></a>
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
 <br /> ISBN-13: 9788972808183, ISBN-10 8972808180
-
 </div>
 <div style="float: right">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
