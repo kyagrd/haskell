@@ -5,14 +5,19 @@
 
 <div>
 <div sylte="float: left;">
-[__오탈자__](https://kyagrd.github.io/haskell/wiki/오탈자)
-[__강의자료 및 하스켈 코드__](https://kyagrd.github.io/haskell/wiki/강의자료-및-하스켈-코드)
+TTTT TTTT
+
+TTTT TTTT
 </div>
 <div sylte="float: right;">
+TODO TODO
+
+TODO TODO
+</div>
+</div>
+
 [__오탈자__](https://kyagrd.github.io/haskell/wiki/오탈자)
 [__강의자료 및 하스켈 코드__](https://kyagrd.github.io/haskell/wiki/강의자료-및-하스켈-코드)
-</div>
-</div>
 
 
 #### 출판사를 구합니다
