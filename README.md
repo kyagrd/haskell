@@ -3,23 +3,6 @@
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
 <br /> ISBN-13: 9788972808183, ISBN-10 8972808180
 
-<div>
-<div sylte="float: left;">
-TTTT TTTT
-
-TTTT TTTT
-</div>
-<div sylte="float: right;">
-TODO TODO
-
-TODO TODO
-</div>
-</div>
-
-[__오탈자__](https://kyagrd.github.io/haskell/wiki/오탈자)
-[__강의자료 및 하스켈 코드__](https://kyagrd.github.io/haskell/wiki/강의자료-및-하스켈-코드)
-
-
 #### 출판사를 구합니다
 초판이 절판되었으나 대림출판사에서는 재판 계획이 없어
 현재 경성대학교 등의 수업 교재 이용에 불편을 겪고 있으니
