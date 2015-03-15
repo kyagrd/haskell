@@ -3,6 +3,11 @@
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
 <br /> ISBN-13: 9788972808183, ISBN-10 8972808180
 
+<DIV id=”container”>
+<DIV style=”float:left; background-color:magenta; width:100px; height:100px; margin-top: 200px; margin-left: 100px;”> first div</DIV>
+<DIV style=”float:right; background-color:green; width:100px; height:100px; margin-top: 100px; margin-left: 200px;”>second div</DIV>
+</DIV>
+
 #### 출판사를 구합니다
 초판이 절판되었으나 대림출판사에서는 재판 계획이 없어
 현재 경성대학교 등의 수업 교재 이용에 불편을 겪고 있으니
