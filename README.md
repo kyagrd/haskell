@@ -1,10 +1,8 @@
-표지를 클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동:<br />
-<a title="표지를 클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동하기" href="https://github.com/kyagrd/haskell/wiki">
-<img alt="책 표지" src="http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg" /></a>
-[![책 표지](http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg)](https://github.com/kyagrd/haskell/wiki)
-</span>
+<a title="클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동하기" href="https://github.com/kyagrd/haskell/wiki">
+<img alt="책 표지" src="http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg" />
+</a>
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
-<br /> ISBN-13: 9788972808183, ISBN-10 8972808180
+<br /> ISBN-13: 9788972808183, ISBN-10: 8972808180
 
 #### 출판사를 구합니다
 초판이 절판되었으나 대림출판사에서는 재판 계획이 없어
