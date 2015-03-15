@@ -4,7 +4,6 @@
 <br /> ISBN-13: 9788972808183, ISBN-10 8972808180
 
 [오탈자](/kyagrd/haskell/wiki/오탈자)
-[강의자료 및 하스켈 코드](/kyagrd/haskell/wiki/강의자료-및-하스켈-코드)
 
 <div>
 <div style="float: left">
