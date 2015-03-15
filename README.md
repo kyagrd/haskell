@@ -6,19 +6,19 @@
 
 <div>
 <div style="float: left">
-asfa asf
-afas
-asf
-asdf
-
-asdfa
-asdf
-asdf
-asdf
-
-</div> <!-- ------------------------------------------ --> 
+  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+    <li>
+      <strong><a href="/kyagrd/haskell/wiki" class="wiki-page-link">Home</a></strong>
+    </li>
+    <li>
+      <strong><a href="/kyagrd/haskell/wiki/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%95%98%EC%8A%A4%EC%BC%88-%EC%BD%94%EB%93%9C" class="wiki-page-link">강의자료 및 하스켈 코드</a></strong>
+    </li>
+    <li>
+      <strong><a href="/kyagrd/haskell/wiki/%EB%A7%8E%EC%A7%88%EA%B2%83" class="wiki-page-link">많질것</a></strong>
+    </li>
+</ul>
+</div> 
 <div style="float: right">
-
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
       <strong><a href="/kyagrd/haskell/wiki" class="wiki-page-link">Home</a></strong>
@@ -49,7 +49,7 @@ asdf
     </li>
   </ul>
 </div>
-</div> <!-- ------------------------------------------ -->
+</div>
 
 #### 출판사를 구합니다
 초판이 절판되었으나 대림출판사에서는 재판 계획이 없어
