@@ -3,7 +3,7 @@
 <br /> 도서출판 대림 2009-07-24 초판, 368쪽, 190x235x30mm, 
 <br /> ISBN-13: 9788972808183, ISBN-10 8972808180
 
-[[오탈자|오탈자]]
+[오탈자](/kyagrd/haskell/wiki/오탈자)
 <div>
 <div style="float: left">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
