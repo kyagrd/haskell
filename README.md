@@ -1,3 +1,4 @@
+&darr; 책 표지를 클릭하면 더 자세한 관련 정보가 정리된 페이지로 이동합니다.<br />
 <a title="클릭하여 더 자세한 정보가 담긴 위키 페이지로 이동하기" href="https://github.com/kyagrd/haskell/wiki">
 <img alt="한글판 표지" src="http://pl.pusan.ac.kr/~haskell/9788972808183-h.jpg" />
 </a>은 
