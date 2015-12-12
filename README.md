@@ -14,3 +14,7 @@
 
 #### 홈페이지 이사했습니다.
 이전 홈페이지인 http://pl.pusan.ac.kr/~haskell/ 로부터 이곳으로 옮겨왔습니다.
+
+
+--------
+[[.. ⮥]](http://kyagrd.github.io/) (back to homepage)
